@@ -14,3 +14,4 @@ Anomali adalah istilah umum yang merujuk kepada keadaan penyimpangan atau keaneh
 ```
 
 <img src="windut.png.jpg">
+<a href="https://www.youtube.com/c/WindahBasudara/videos">Link youtube anomali<a>
