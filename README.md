@@ -7,9 +7,10 @@
 - Masukkan Mie ke Dalam Bumbu.
 - aduk mie sampe merata
 
-## Lirik lagu indonesia raya
+## Anomali
 
 ```
-INDONESIA KEBANGSAANKU, BANGSA DAN TANAH AIRKU, MARILAH KITA BERSERU, INDONESIA BERSATU. HIDUPLAH TANAHKU, HIDUPLAH NEG'RIKU, BANGSAKU, RAKYATKU, SEMUANYA, BANGUNLAH JIWANYA, BANGUNLAH BADANNYA, UNTUK INDONESIA RAYA.
+Anomali adalah istilah umum yang merujuk kepada keadaan penyimpangan atau keanehan yang terjadi atau dengan kata lain tidak seperti biasanya. Anomali juga sering di sebut sebagai suatu kejadian yang tidak bisa diperkirakan sehingga sesuatu yang terjadi akan berubah-ubah dari kejadian biasanya.
 ```
 
+<img src="windut.png.jpg">
